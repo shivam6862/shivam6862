@@ -193,7 +193,7 @@ Check out my [website](https://shivam6862.github.io/) to know more about me.
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam6862&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam6862&show_icons=true&locale=en&layout=compact&theme=dark&background=000000"
     alt="shivam6862"
   />
 </p>
@@ -201,7 +201,7 @@ Check out my [website](https://shivam6862.github.io/) to know more about me.
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=shivam6862&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=shivam6862&show_icons=true&locale=en&theme=dark&background=000000"
     alt="shivam6862"
   />
 </p>
@@ -209,7 +209,7 @@ Check out my [website](https://shivam6862.github.io/) to know more about me.
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shivam6862&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shivam6862&theme=dark&background=000000"
     alt="shivam6862"
   />
 </p>
