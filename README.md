@@ -20,6 +20,12 @@ Check out my [website](https://shivam6862.github.io/) to know more about me.
 <h3 align="left">Connect with me </h3>
 
 <p align="center">
+  <a href="https://www.kaggle.com/shivam6862/">
+    <img
+      src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"
+      alt="Kaggle Badge"
+    />
+  </a>
   <a href="https://www.linkedin.com/in/shivam-kumar-14701b249/">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
