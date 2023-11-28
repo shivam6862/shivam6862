@@ -8,9 +8,7 @@
 </p>
 
 <p>
-I'm a software developer with a passion for solving complex problems and
-building elegant solutions. I am constantly challenging myself to improve my
-skills and stay up-to-date with the latest technologies.
+I'm a software developer passionate about solving complex problems and building elegant solutions. I constantly challenge myself to improve my skills and stay up-to-date with the latest technologies. Additionally, my expertise extends to data analytics and machine learning, with a successful track record in Kaggle competitions.
 </p>
 
 Check out my [website](https://shivam6862.github.io/) to know more about me.
@@ -60,12 +58,6 @@ Check out my [website](https://shivam6862.github.io/) to know more about me.
     <img
       src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"
       alt="LeetCode Badge"
-    />
-  </a>
-  <a href="https://shivam6862-dsa-visualizer.netlify.app/">
-    <img
-      src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
-      alt="netlify Badge"
     />
   </a>
 </p>
