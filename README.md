@@ -1,7 +1,7 @@
 ---
-<h5>Hi 👋, My Name is</h5>
+<h4>Hi 👋, My Name is</h4>
 
-<h2>Shivam Kumar</h2>
+<h1>Shivam Kumar</h1>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=shivam6862&label=Profile%20views&color=0e75b6&style=flat" alt="shivam6862" />
@@ -15,7 +15,7 @@ Check out my [website](https://shivam6862.github.io/) to know more about me.
 
 ---
 
-<h3 align="left">Connect with me </h3>
+<h2 align="left">Connect with me </h2>
 
 <p align="center">
   <a href="https://www.kaggle.com/shivam6862/">
@@ -64,15 +64,15 @@ Check out my [website](https://shivam6862.github.io/) to know more about me.
 
 ---
 
-<h3 align="left">Language and Platform Used </h3>
+<h2 align="left">Language and Platform Used </h2>
 
 <p align="left">
   <a href="https://cp-algorithms.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
   <a
@@ -83,127 +83,195 @@ Check out my [website](https://shivam6862.github.io/) to know more about me.
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.ruby-lang.org/en/documentation//" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
+    alt="ruby"
+      width="60"
+      height="60"/>
+   </a>
+  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"
+    alt="go"
+      width="60"
+      height="60"/>
+   </a>
+     <a href="https://devdocs.io/typescript/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"
+      alt="java"
+      width="60"
+      height="60"
+    />
+  </a>
+</p
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
       alt="react"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <a href="https://www.electronjs.org/docs/latest" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"
+      alt="electron"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+      alt="nextJs"
+      width="60"
+      height="60"
+    />
+  </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
+</p
+<p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
       alt="express"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <a href="https://devdocs.io/django/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+      alt="django"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://www.selenium.dev/documentation/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"
+      alt="selenium"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+      alt="spring"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+      alt="flask"
+      width="60"
+      height="60"
+    />
+  </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
+</p
+<p align="left">
   <a href="https://devdocs.io/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
   <a href="https://devdocs.io/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
+</p
+<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
   <a href="https://docs.github.com/en" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
       alt="git"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
       alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://devdocs.io/typescript/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://devdocs.io/django/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
-      alt="django"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
 </p>
 
 ---
 
-<h3 align="left">General</h3>
+<h2 align="left">General</h2>
 <p>
   <img
     align="center"
