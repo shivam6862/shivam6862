@@ -14,6 +14,19 @@ I'm a software developer passionate about solving complex problems and building 
 Check out my [website](https://shivam6862.github.io/) to know more about me.
 
 ---
+My work
+
+I have worked on some ideas, just give them a look once.
+- 💡 [Electromagnetmotion Explorer](https://github.com/shivam6862/Electromagnetmotion-explorer)
+- ⚙️ [Resume Builder](https://github.com/shivam6862/Resume-Builder-app)
+- 🚀 [Map My Food](https://github.com/shivam6862/Map-My-Food)
+- ⚡ [Gen AI Hackathon](https://github.com/shivam6862/Gen-AI-Hackathon)
+
+I love exploring interesting opensource projects.
+- ⚡ [Gizatechxyz Giza agents](https://github.com/gizatechxyz/giza-agents)
+- 🚀 [DappHack](https://github.com/BlocSoc-iitr/DappHack)
+
+---
 
 <h2 align="left">Connect with me </h2>
 
@@ -24,7 +37,7 @@ Check out my [website](https://shivam6862.github.io/) to know more about me.
       alt="Kaggle Badge"
     />
   </a>
-  <a href="https://www.linkedin.com/in/shivam-kumar-14701b249/">
+  <a href="https://www.linkedin.com/in/shivam6862/">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn Badge"
