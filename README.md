@@ -21,10 +21,12 @@ I have worked on some ideas, just give them a look once.
 - ⚙️ [Resume Builder](https://github.com/shivam6862/Resume-Builder-app)
 - 🚀 [Map My Food](https://github.com/shivam6862/Map-My-Food)
 - ⚡ [Gen AI Hackathon](https://github.com/shivam6862/Gen-AI-Hackathon)
+- ⭐ [Cleverchat](https://github.com/shivam6862/cleverchat)
 
 I love exploring interesting opensource projects.
 - ⚡ [Gizatechxyz Giza agents](https://github.com/gizatechxyz/giza-agents)
 - 🚀 [DappHack](https://github.com/BlocSoc-iitr/DappHack)
+- ⭐ [Carbon Protocol v3](https://github.com/carbonable-labs/carbon-protocol-v3)
 
 ---
 
