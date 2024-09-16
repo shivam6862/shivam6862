@@ -287,13 +287,6 @@ I love exploring interesting opensource projects.
 ---
 
 <h2 align="left">General</h2>
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam6862&show_icons=true&locale=en&layout=compact&theme=dark&background=000000"
-    alt="shivam6862"
-  />
-</p>
 
 <p>
   &nbsp;<img
